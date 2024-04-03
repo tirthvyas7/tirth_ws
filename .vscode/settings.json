@@ -1,0 +1,35 @@
+{
+    "ros.distro": "humble",
+    "python.autoComplete.extraPaths": [
+        "/home/tirth/tirth_ws/install/bot_description/lib/python3.10/site-packages",
+        "/home/tirth/colcon_ws/build/self_driving_car",
+        "/home/tirth/colcon_ws/install/self_driving_car/lib/python3.10/site-packages",
+        "/home/tirth/colcon_ws/build/py_pubsub",
+        "/home/tirth/colcon_ws/install/py_pubsub/lib/python3.10/site-packages",
+        "/home/tirth/colcon_ws/install/px4_msgs/local/lib/python3.10/dist-packages",
+        "/home/tirth/colcon_ws/build/my_robot_controller",
+        "/home/tirth/colcon_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/home/tirth/colcon_ws/build/first",
+        "/home/tirth/colcon_ws/install/first/lib/python3.10/site-packages",
+        "/home/tirth/colcon_ws/build/ball_tracker",
+        "/home/tirth/colcon_ws/install/ball_tracker/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/tirth/tirth_ws/install/bot_description/lib/python3.10/site-packages",
+        "/home/tirth/colcon_ws/build/self_driving_car",
+        "/home/tirth/colcon_ws/install/self_driving_car/lib/python3.10/site-packages",
+        "/home/tirth/colcon_ws/build/py_pubsub",
+        "/home/tirth/colcon_ws/install/py_pubsub/lib/python3.10/site-packages",
+        "/home/tirth/colcon_ws/install/px4_msgs/local/lib/python3.10/dist-packages",
+        "/home/tirth/colcon_ws/build/my_robot_controller",
+        "/home/tirth/colcon_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/home/tirth/colcon_ws/build/first",
+        "/home/tirth/colcon_ws/install/first/lib/python3.10/site-packages",
+        "/home/tirth/colcon_ws/build/ball_tracker",
+        "/home/tirth/colcon_ws/install/ball_tracker/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

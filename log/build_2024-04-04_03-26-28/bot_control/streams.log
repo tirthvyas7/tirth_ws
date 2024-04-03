@@ -1,0 +1,25 @@
+[2.293s] Invoking command in '/home/tirth/tirth_ws/src/bot_control': PYTHONPATH=/home/tirth/tirth_ws/build/bot_control/prefix_override:/home/tirth/tirth_ws/install/bot_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/bot_control build --build-base /home/tirth/tirth_ws/build/bot_control/build install --record /home/tirth/tirth_ws/build/bot_control/install.log --single-version-externally-managed
+[2.985s] running egg_info
+[2.987s] writing ../../build/bot_control/bot_control.egg-info/PKG-INFO
+[2.989s] writing dependency_links to ../../build/bot_control/bot_control.egg-info/dependency_links.txt
+[2.993s] writing entry points to ../../build/bot_control/bot_control.egg-info/entry_points.txt
+[2.994s] writing requirements to ../../build/bot_control/bot_control.egg-info/requires.txt
+[2.994s] writing top-level names to ../../build/bot_control/bot_control.egg-info/top_level.txt
+[2.998s] reading manifest file '../../build/bot_control/bot_control.egg-info/SOURCES.txt'
+[2.998s] adding license file 'LICENSE'
+[2.999s] writing manifest file '../../build/bot_control/bot_control.egg-info/SOURCES.txt'
+[3.000s] running build
+[3.000s] running build_py
+[3.000s] copying bot_control/filter.py -> /home/tirth/tirth_ws/build/bot_control/build/lib/bot_control
+[3.000s] running install
+[3.000s] running install_lib
+[3.001s] copying /home/tirth/tirth_ws/build/bot_control/build/lib/bot_control/filter.py -> /home/tirth/tirth_ws/install/bot_control/lib/python3.10/site-packages/bot_control
+[3.007s] byte-compiling /home/tirth/tirth_ws/install/bot_control/lib/python3.10/site-packages/bot_control/filter.py to filter.cpython-310.pyc
+[3.010s] running install_data
+[3.013s] running install_egg_info
+[3.016s] removing '/home/tirth/tirth_ws/install/bot_control/lib/python3.10/site-packages/bot_control-0.0.0-py3.10.egg-info' (and everything under it)
+[3.017s] Copying ../../build/bot_control/bot_control.egg-info to /home/tirth/tirth_ws/install/bot_control/lib/python3.10/site-packages/bot_control-0.0.0-py3.10.egg-info
+[3.018s] running install_scripts
+[3.073s] Installing filter script to /home/tirth/tirth_ws/install/bot_control/lib/bot_control
+[3.074s] writing list of installed files to '/home/tirth/tirth_ws/build/bot_control/install.log'
+[3.177s] Invoked command in '/home/tirth/tirth_ws/src/bot_control' returned '0': PYTHONPATH=/home/tirth/tirth_ws/build/bot_control/prefix_override:/home/tirth/tirth_ws/install/bot_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/bot_control build --build-base /home/tirth/tirth_ws/build/bot_control/build install --record /home/tirth/tirth_ws/build/bot_control/install.log --single-version-externally-managed

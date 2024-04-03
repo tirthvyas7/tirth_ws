@@ -1,0 +1,41 @@
+[1.157s] Invoking command in '/home/tirth/tirth_ws/src/bot_world': PYTHONPATH=/home/tirth/tirth_ws/build/bot_world/prefix_override:/home/tirth/tirth_ws/install/bot_world/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/bot_world build --build-base /home/tirth/tirth_ws/build/bot_world/build install --record /home/tirth/tirth_ws/build/bot_world/install.log --single-version-externally-managed
+[1.446s] running egg_info
+[1.447s] writing ../../build/bot_world/bot_world.egg-info/PKG-INFO
+[1.447s] writing dependency_links to ../../build/bot_world/bot_world.egg-info/dependency_links.txt
+[1.447s] writing entry points to ../../build/bot_world/bot_world.egg-info/entry_points.txt
+[1.447s] writing requirements to ../../build/bot_world/bot_world.egg-info/requires.txt
+[1.447s] writing top-level names to ../../build/bot_world/bot_world.egg-info/top_level.txt
+[1.449s] reading manifest file '../../build/bot_world/bot_world.egg-info/SOURCES.txt'
+[1.449s] adding license file 'LICENSE'
+[1.450s] writing manifest file '../../build/bot_world/bot_world.egg-info/SOURCES.txt'
+[1.450s] running build
+[1.451s] running build_py
+[1.451s] running install
+[1.451s] running install_lib
+[1.452s] running install_data
+[1.453s] copying launch/world.launch.py -> /home/tirth/tirth_ws/install/bot_world/share/bot_world/launch
+[1.453s] copying world/bot.world -> /home/tirth/tirth_ws/install/bot_world/share/bot_world/world
+[1.453s] creating /home/tirth/tirth_ws/install/bot_world/share/bot_world/meshes
+[1.453s] copying meshes/wheel_r.stl -> /home/tirth/tirth_ws/install/bot_world/share/bot_world/meshes
+[1.453s] copying meshes/wheel.obj -> /home/tirth/tirth_ws/install/bot_world/share/bot_world/meshes
+[1.453s] copying meshes/front_caster.dae -> /home/tirth/tirth_ws/install/bot_world/share/bot_world/meshes
+[1.454s] copying meshes/front_caster.obj -> /home/tirth/tirth_ws/install/bot_world/share/bot_world/meshes
+[1.454s] copying meshes/wheel_l.stl -> /home/tirth/tirth_ws/install/bot_world/share/bot_world/meshes
+[1.454s] copying meshes/wheel_r.dae -> /home/tirth/tirth_ws/install/bot_world/share/bot_world/meshes
+[1.455s] copying meshes/base_link.dae -> /home/tirth/tirth_ws/install/bot_world/share/bot_world/meshes
+[1.455s] copying meshes/wheel_l.dae -> /home/tirth/tirth_ws/install/bot_world/share/bot_world/meshes
+[1.456s] copying meshes/base_link.stl -> /home/tirth/tirth_ws/install/bot_world/share/bot_world/meshes
+[1.456s] copying meshes/wheel.mtl -> /home/tirth/tirth_ws/install/bot_world/share/bot_world/meshes
+[1.456s] copying meshes/front_caster.stl -> /home/tirth/tirth_ws/install/bot_world/share/bot_world/meshes
+[1.456s] copying meshes/front_caster.mtl -> /home/tirth/tirth_ws/install/bot_world/share/bot_world/meshes
+[1.456s] copying meshes/center.mtl -> /home/tirth/tirth_ws/install/bot_world/share/bot_world/meshes
+[1.456s] copying meshes/center.obj -> /home/tirth/tirth_ws/install/bot_world/share/bot_world/meshes
+[1.457s] creating /home/tirth/tirth_ws/install/bot_world/share/bot_world/urdf
+[1.457s] copying urdf/bot2.urdf -> /home/tirth/tirth_ws/install/bot_world/share/bot_world/urdf
+[1.457s] copying urdf/bot.urdf -> /home/tirth/tirth_ws/install/bot_world/share/bot_world/urdf
+[1.457s] running install_egg_info
+[1.458s] removing '/home/tirth/tirth_ws/install/bot_world/lib/python3.10/site-packages/bot_world-0.0.0-py3.10.egg-info' (and everything under it)
+[1.459s] Copying ../../build/bot_world/bot_world.egg-info to /home/tirth/tirth_ws/install/bot_world/lib/python3.10/site-packages/bot_world-0.0.0-py3.10.egg-info
+[1.483s] running install_scripts
+[1.503s] writing list of installed files to '/home/tirth/tirth_ws/build/bot_world/install.log'
+[1.529s] Invoked command in '/home/tirth/tirth_ws/src/bot_world' returned '0': PYTHONPATH=/home/tirth/tirth_ws/build/bot_world/prefix_override:/home/tirth/tirth_ws/install/bot_world/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/bot_world build --build-base /home/tirth/tirth_ws/build/bot_world/build install --record /home/tirth/tirth_ws/build/bot_world/install.log --single-version-externally-managed

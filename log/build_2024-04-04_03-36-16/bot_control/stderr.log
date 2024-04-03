@@ -1,0 +1,5 @@
+  File "/home/tirth/tirth_ws/install/bot_control/lib/python3.10/site-packages/bot_control/filter.py", line 26
+    print(int(self.point.angle_max*2.094/1081) len(self.point.ranges)+1 )
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+

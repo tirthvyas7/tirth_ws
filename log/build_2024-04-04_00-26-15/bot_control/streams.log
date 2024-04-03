@@ -1,0 +1,56 @@
+[0.985s] Invoking command in '/home/tirth/tirth_ws/src/bot_control': PYTHONPATH=/home/tirth/tirth_ws/build/bot_control/prefix_override:/home/tirth/tirth_ws/install/bot_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/bot_control build --build-base /home/tirth/tirth_ws/build/bot_control/build install --record /home/tirth/tirth_ws/build/bot_control/install.log --single-version-externally-managed
+[1.291s] running egg_info
+[1.291s] creating ../../build/bot_control/bot_control.egg-info
+[1.291s] writing ../../build/bot_control/bot_control.egg-info/PKG-INFO
+[1.292s] writing dependency_links to ../../build/bot_control/bot_control.egg-info/dependency_links.txt
+[1.292s] writing entry points to ../../build/bot_control/bot_control.egg-info/entry_points.txt
+[1.292s] writing requirements to ../../build/bot_control/bot_control.egg-info/requires.txt
+[1.292s] writing top-level names to ../../build/bot_control/bot_control.egg-info/top_level.txt
+[1.292s] writing manifest file '../../build/bot_control/bot_control.egg-info/SOURCES.txt'
+[1.294s] reading manifest file '../../build/bot_control/bot_control.egg-info/SOURCES.txt'
+[1.295s] adding license file 'LICENSE'
+[1.295s] writing manifest file '../../build/bot_control/bot_control.egg-info/SOURCES.txt'
+[1.296s] running build
+[1.296s] running build_py
+[1.296s] creating /home/tirth/tirth_ws/build/bot_control/build
+[1.296s] creating /home/tirth/tirth_ws/build/bot_control/build/lib
+[1.296s] creating /home/tirth/tirth_ws/build/bot_control/build/lib/bot_control
+[1.296s] copying bot_control/__init__.py -> /home/tirth/tirth_ws/build/bot_control/build/lib/bot_control
+[1.296s] running install
+[1.296s] running install_lib
+[1.297s] creating /home/tirth/tirth_ws/install/bot_control/lib/python3.10/site-packages/bot_control
+[1.297s] copying /home/tirth/tirth_ws/build/bot_control/build/lib/bot_control/__init__.py -> /home/tirth/tirth_ws/install/bot_control/lib/python3.10/site-packages/bot_control
+[1.297s] byte-compiling /home/tirth/tirth_ws/install/bot_control/lib/python3.10/site-packages/bot_control/__init__.py to __init__.cpython-310.pyc
+[1.298s] running install_data
+[1.298s] creating /home/tirth/tirth_ws/install/bot_control/share/ament_index
+[1.298s] creating /home/tirth/tirth_ws/install/bot_control/share/ament_index/resource_index
+[1.299s] creating /home/tirth/tirth_ws/install/bot_control/share/ament_index/resource_index/packages
+[1.299s] copying resource/bot_control -> /home/tirth/tirth_ws/install/bot_control/share/ament_index/resource_index/packages
+[1.299s] copying package.xml -> /home/tirth/tirth_ws/install/bot_control/share/bot_control
+[1.299s] creating /home/tirth/tirth_ws/install/bot_control/share/bot_control/launch
+[1.299s] copying launch/control.launch.py -> /home/tirth/tirth_ws/install/bot_control/share/bot_control/launch
+[1.299s] creating /home/tirth/tirth_ws/install/bot_control/share/bot_control/world
+[1.299s] copying world/bot.world -> /home/tirth/tirth_ws/install/bot_control/share/bot_control/world
+[1.299s] creating /home/tirth/tirth_ws/install/bot_control/share/bot_control/meshes
+[1.299s] copying meshes/wheel_r.stl -> /home/tirth/tirth_ws/install/bot_control/share/bot_control/meshes
+[1.299s] copying meshes/wheel.obj -> /home/tirth/tirth_ws/install/bot_control/share/bot_control/meshes
+[1.299s] copying meshes/front_caster.dae -> /home/tirth/tirth_ws/install/bot_control/share/bot_control/meshes
+[1.299s] copying meshes/front_caster.obj -> /home/tirth/tirth_ws/install/bot_control/share/bot_control/meshes
+[1.300s] copying meshes/wheel_l.stl -> /home/tirth/tirth_ws/install/bot_control/share/bot_control/meshes
+[1.300s] copying meshes/wheel_r.dae -> /home/tirth/tirth_ws/install/bot_control/share/bot_control/meshes
+[1.300s] copying meshes/base_link.dae -> /home/tirth/tirth_ws/install/bot_control/share/bot_control/meshes
+[1.301s] copying meshes/wheel_l.dae -> /home/tirth/tirth_ws/install/bot_control/share/bot_control/meshes
+[1.301s] copying meshes/base_link.stl -> /home/tirth/tirth_ws/install/bot_control/share/bot_control/meshes
+[1.301s] copying meshes/wheel.mtl -> /home/tirth/tirth_ws/install/bot_control/share/bot_control/meshes
+[1.302s] copying meshes/front_caster.stl -> /home/tirth/tirth_ws/install/bot_control/share/bot_control/meshes
+[1.302s] copying meshes/front_caster.mtl -> /home/tirth/tirth_ws/install/bot_control/share/bot_control/meshes
+[1.302s] copying meshes/center.mtl -> /home/tirth/tirth_ws/install/bot_control/share/bot_control/meshes
+[1.302s] copying meshes/center.obj -> /home/tirth/tirth_ws/install/bot_control/share/bot_control/meshes
+[1.302s] creating /home/tirth/tirth_ws/install/bot_control/share/bot_control/urdf
+[1.303s] copying urdf/bot2.urdf -> /home/tirth/tirth_ws/install/bot_control/share/bot_control/urdf
+[1.303s] copying urdf/bot.urdf -> /home/tirth/tirth_ws/install/bot_control/share/bot_control/urdf
+[1.303s] running install_egg_info
+[1.305s] Copying ../../build/bot_control/bot_control.egg-info to /home/tirth/tirth_ws/install/bot_control/lib/python3.10/site-packages/bot_control-0.0.0-py3.10.egg-info
+[1.305s] running install_scripts
+[1.326s] writing list of installed files to '/home/tirth/tirth_ws/build/bot_control/install.log'
+[1.354s] Invoked command in '/home/tirth/tirth_ws/src/bot_control' returned '0': PYTHONPATH=/home/tirth/tirth_ws/build/bot_control/prefix_override:/home/tirth/tirth_ws/install/bot_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/bot_control build --build-base /home/tirth/tirth_ws/build/bot_control/build install --record /home/tirth/tirth_ws/build/bot_control/install.log --single-version-externally-managed

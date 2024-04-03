@@ -1,0 +1,21 @@
+[2.175s] Invoking command in '/home/tirth/tirth_ws/src/bot_description': PYTHONPATH=/home/tirth/tirth_ws/build/bot_description/prefix_override:/home/tirth/tirth_ws/install/bot_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/bot_description build --build-base /home/tirth/tirth_ws/build/bot_description/build install --record /home/tirth/tirth_ws/build/bot_description/install.log --single-version-externally-managed
+[2.500s] running egg_info
+[2.502s] writing ../../build/bot_description/bot_description.egg-info/PKG-INFO
+[2.521s] writing dependency_links to ../../build/bot_description/bot_description.egg-info/dependency_links.txt
+[2.522s] writing entry points to ../../build/bot_description/bot_description.egg-info/entry_points.txt
+[2.522s] writing requirements to ../../build/bot_description/bot_description.egg-info/requires.txt
+[2.524s] writing top-level names to ../../build/bot_description/bot_description.egg-info/top_level.txt
+[2.524s] reading manifest file '../../build/bot_description/bot_description.egg-info/SOURCES.txt'
+[2.543s] adding license file 'LICENSE'
+[2.543s] writing manifest file '../../build/bot_description/bot_description.egg-info/SOURCES.txt'
+[2.543s] running build
+[2.543s] running build_py
+[2.558s] running install
+[2.558s] running install_lib
+[2.559s] running install_data
+[2.560s] running install_egg_info
+[2.562s] removing '/home/tirth/tirth_ws/install/bot_description/lib/python3.10/site-packages/bot_description-0.0.0-py3.10.egg-info' (and everything under it)
+[2.562s] Copying ../../build/bot_description/bot_description.egg-info to /home/tirth/tirth_ws/install/bot_description/lib/python3.10/site-packages/bot_description-0.0.0-py3.10.egg-info
+[2.594s] running install_scripts
+[2.616s] writing list of installed files to '/home/tirth/tirth_ws/build/bot_description/install.log'
+[2.643s] Invoked command in '/home/tirth/tirth_ws/src/bot_description' returned '0': PYTHONPATH=/home/tirth/tirth_ws/build/bot_description/prefix_override:/home/tirth/tirth_ws/install/bot_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/bot_description build --build-base /home/tirth/tirth_ws/build/bot_description/build install --record /home/tirth/tirth_ws/build/bot_description/install.log --single-version-externally-managed

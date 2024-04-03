@@ -1,0 +1,34 @@
+[2.232s] Invoking command in '/home/tirth/tirth_ws/src/bot_world': PYTHONPATH=/home/tirth/tirth_ws/build/bot_world/prefix_override:/home/tirth/tirth_ws/install/bot_world/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/bot_world build --build-base /home/tirth/tirth_ws/build/bot_world/build install --record /home/tirth/tirth_ws/build/bot_world/install.log --single-version-externally-managed
+[2.536s] running egg_info
+[2.536s] creating ../../build/bot_world/bot_world.egg-info
+[2.536s] writing ../../build/bot_world/bot_world.egg-info/PKG-INFO
+[2.537s] writing dependency_links to ../../build/bot_world/bot_world.egg-info/dependency_links.txt
+[2.537s] writing entry points to ../../build/bot_world/bot_world.egg-info/entry_points.txt
+[2.537s] writing requirements to ../../build/bot_world/bot_world.egg-info/requires.txt
+[2.537s] writing top-level names to ../../build/bot_world/bot_world.egg-info/top_level.txt
+[2.537s] writing manifest file '../../build/bot_world/bot_world.egg-info/SOURCES.txt'
+[2.540s] reading manifest file '../../build/bot_world/bot_world.egg-info/SOURCES.txt'
+[2.540s] adding license file 'LICENSE'
+[2.540s] writing manifest file '../../build/bot_world/bot_world.egg-info/SOURCES.txt'
+[2.540s] running build
+[2.541s] running build_py
+[2.541s] creating /home/tirth/tirth_ws/build/bot_world/build
+[2.541s] creating /home/tirth/tirth_ws/build/bot_world/build/lib
+[2.541s] creating /home/tirth/tirth_ws/build/bot_world/build/lib/bot_world
+[2.541s] copying bot_world/__init__.py -> /home/tirth/tirth_ws/build/bot_world/build/lib/bot_world
+[2.541s] running install
+[2.541s] running install_lib
+[2.542s] creating /home/tirth/tirth_ws/install/bot_world/lib/python3.10/site-packages/bot_world
+[2.542s] copying /home/tirth/tirth_ws/build/bot_world/build/lib/bot_world/__init__.py -> /home/tirth/tirth_ws/install/bot_world/lib/python3.10/site-packages/bot_world
+[2.543s] byte-compiling /home/tirth/tirth_ws/install/bot_world/lib/python3.10/site-packages/bot_world/__init__.py to __init__.cpython-310.pyc
+[2.543s] running install_data
+[2.544s] creating /home/tirth/tirth_ws/install/bot_world/share/ament_index
+[2.544s] creating /home/tirth/tirth_ws/install/bot_world/share/ament_index/resource_index
+[2.544s] creating /home/tirth/tirth_ws/install/bot_world/share/ament_index/resource_index/packages
+[2.544s] copying resource/bot_world -> /home/tirth/tirth_ws/install/bot_world/share/ament_index/resource_index/packages
+[2.544s] copying package.xml -> /home/tirth/tirth_ws/install/bot_world/share/bot_world
+[2.544s] running install_egg_info
+[2.546s] Copying ../../build/bot_world/bot_world.egg-info to /home/tirth/tirth_ws/install/bot_world/lib/python3.10/site-packages/bot_world-0.0.0-py3.10.egg-info
+[2.547s] running install_scripts
+[2.568s] writing list of installed files to '/home/tirth/tirth_ws/build/bot_world/install.log'
+[2.594s] Invoked command in '/home/tirth/tirth_ws/src/bot_world' returned '0': PYTHONPATH=/home/tirth/tirth_ws/build/bot_world/prefix_override:/home/tirth/tirth_ws/install/bot_world/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/bot_world build --build-base /home/tirth/tirth_ws/build/bot_world/build install --record /home/tirth/tirth_ws/build/bot_world/install.log --single-version-externally-managed

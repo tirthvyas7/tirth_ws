@@ -1,0 +1,22 @@
+[2.189s] Invoking command in '/home/tirth/tirth_ws/src/bot_description': PYTHONPATH=/home/tirth/tirth_ws/build/bot_description/prefix_override:/home/tirth/tirth_ws/install/bot_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/bot_description build --build-base /home/tirth/tirth_ws/build/bot_description/build install --record /home/tirth/tirth_ws/build/bot_description/install.log --single-version-externally-managed
+[2.514s] running egg_info
+[2.515s] writing ../../build/bot_description/bot_description.egg-info/PKG-INFO
+[2.515s] writing dependency_links to ../../build/bot_description/bot_description.egg-info/dependency_links.txt
+[2.515s] writing entry points to ../../build/bot_description/bot_description.egg-info/entry_points.txt
+[2.515s] writing requirements to ../../build/bot_description/bot_description.egg-info/requires.txt
+[2.515s] writing top-level names to ../../build/bot_description/bot_description.egg-info/top_level.txt
+[2.541s] reading manifest file '../../build/bot_description/bot_description.egg-info/SOURCES.txt'
+[2.560s] adding license file 'LICENSE'
+[2.561s] writing manifest file '../../build/bot_description/bot_description.egg-info/SOURCES.txt'
+[2.561s] running build
+[2.561s] running build_py
+[2.561s] running install
+[2.562s] running install_lib
+[2.563s] running install_data
+[2.564s] copying launch/spawn.launch.py -> /home/tirth/tirth_ws/install/bot_description/share/bot_description/launch
+[2.576s] running install_egg_info
+[2.578s] removing '/home/tirth/tirth_ws/install/bot_description/lib/python3.10/site-packages/bot_description-0.0.0-py3.10.egg-info' (and everything under it)
+[2.578s] Copying ../../build/bot_description/bot_description.egg-info to /home/tirth/tirth_ws/install/bot_description/lib/python3.10/site-packages/bot_description-0.0.0-py3.10.egg-info
+[2.603s] running install_scripts
+[2.643s] writing list of installed files to '/home/tirth/tirth_ws/build/bot_description/install.log'
+[2.674s] Invoked command in '/home/tirth/tirth_ws/src/bot_description' returned '0': PYTHONPATH=/home/tirth/tirth_ws/build/bot_description/prefix_override:/home/tirth/tirth_ws/install/bot_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/bot_description build --build-base /home/tirth/tirth_ws/build/bot_description/build install --record /home/tirth/tirth_ws/build/bot_description/install.log --single-version-externally-managed

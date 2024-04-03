@@ -1,0 +1,54 @@
+running egg_info
+creating ../../build/bot_control/bot_control.egg-info
+writing ../../build/bot_control/bot_control.egg-info/PKG-INFO
+writing dependency_links to ../../build/bot_control/bot_control.egg-info/dependency_links.txt
+writing entry points to ../../build/bot_control/bot_control.egg-info/entry_points.txt
+writing requirements to ../../build/bot_control/bot_control.egg-info/requires.txt
+writing top-level names to ../../build/bot_control/bot_control.egg-info/top_level.txt
+writing manifest file '../../build/bot_control/bot_control.egg-info/SOURCES.txt'
+reading manifest file '../../build/bot_control/bot_control.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/bot_control/bot_control.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/tirth/tirth_ws/build/bot_control/build
+creating /home/tirth/tirth_ws/build/bot_control/build/lib
+creating /home/tirth/tirth_ws/build/bot_control/build/lib/bot_control
+copying bot_control/__init__.py -> /home/tirth/tirth_ws/build/bot_control/build/lib/bot_control
+running install
+running install_lib
+creating /home/tirth/tirth_ws/install/bot_control/lib/python3.10/site-packages/bot_control
+copying /home/tirth/tirth_ws/build/bot_control/build/lib/bot_control/__init__.py -> /home/tirth/tirth_ws/install/bot_control/lib/python3.10/site-packages/bot_control
+byte-compiling /home/tirth/tirth_ws/install/bot_control/lib/python3.10/site-packages/bot_control/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/tirth/tirth_ws/install/bot_control/share/ament_index
+creating /home/tirth/tirth_ws/install/bot_control/share/ament_index/resource_index
+creating /home/tirth/tirth_ws/install/bot_control/share/ament_index/resource_index/packages
+copying resource/bot_control -> /home/tirth/tirth_ws/install/bot_control/share/ament_index/resource_index/packages
+copying package.xml -> /home/tirth/tirth_ws/install/bot_control/share/bot_control
+creating /home/tirth/tirth_ws/install/bot_control/share/bot_control/launch
+copying launch/control.launch.py -> /home/tirth/tirth_ws/install/bot_control/share/bot_control/launch
+creating /home/tirth/tirth_ws/install/bot_control/share/bot_control/world
+copying world/bot.world -> /home/tirth/tirth_ws/install/bot_control/share/bot_control/world
+creating /home/tirth/tirth_ws/install/bot_control/share/bot_control/meshes
+copying meshes/wheel_r.stl -> /home/tirth/tirth_ws/install/bot_control/share/bot_control/meshes
+copying meshes/wheel.obj -> /home/tirth/tirth_ws/install/bot_control/share/bot_control/meshes
+copying meshes/front_caster.dae -> /home/tirth/tirth_ws/install/bot_control/share/bot_control/meshes
+copying meshes/front_caster.obj -> /home/tirth/tirth_ws/install/bot_control/share/bot_control/meshes
+copying meshes/wheel_l.stl -> /home/tirth/tirth_ws/install/bot_control/share/bot_control/meshes
+copying meshes/wheel_r.dae -> /home/tirth/tirth_ws/install/bot_control/share/bot_control/meshes
+copying meshes/base_link.dae -> /home/tirth/tirth_ws/install/bot_control/share/bot_control/meshes
+copying meshes/wheel_l.dae -> /home/tirth/tirth_ws/install/bot_control/share/bot_control/meshes
+copying meshes/base_link.stl -> /home/tirth/tirth_ws/install/bot_control/share/bot_control/meshes
+copying meshes/wheel.mtl -> /home/tirth/tirth_ws/install/bot_control/share/bot_control/meshes
+copying meshes/front_caster.stl -> /home/tirth/tirth_ws/install/bot_control/share/bot_control/meshes
+copying meshes/front_caster.mtl -> /home/tirth/tirth_ws/install/bot_control/share/bot_control/meshes
+copying meshes/center.mtl -> /home/tirth/tirth_ws/install/bot_control/share/bot_control/meshes
+copying meshes/center.obj -> /home/tirth/tirth_ws/install/bot_control/share/bot_control/meshes
+creating /home/tirth/tirth_ws/install/bot_control/share/bot_control/urdf
+copying urdf/bot2.urdf -> /home/tirth/tirth_ws/install/bot_control/share/bot_control/urdf
+copying urdf/bot.urdf -> /home/tirth/tirth_ws/install/bot_control/share/bot_control/urdf
+running install_egg_info
+Copying ../../build/bot_control/bot_control.egg-info to /home/tirth/tirth_ws/install/bot_control/lib/python3.10/site-packages/bot_control-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/tirth/tirth_ws/build/bot_control/install.log'

@@ -1,0 +1,32 @@
+running egg_info
+creating ../../build/bot_world/bot_world.egg-info
+writing ../../build/bot_world/bot_world.egg-info/PKG-INFO
+writing dependency_links to ../../build/bot_world/bot_world.egg-info/dependency_links.txt
+writing entry points to ../../build/bot_world/bot_world.egg-info/entry_points.txt
+writing requirements to ../../build/bot_world/bot_world.egg-info/requires.txt
+writing top-level names to ../../build/bot_world/bot_world.egg-info/top_level.txt
+writing manifest file '../../build/bot_world/bot_world.egg-info/SOURCES.txt'
+reading manifest file '../../build/bot_world/bot_world.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/bot_world/bot_world.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/tirth/tirth_ws/build/bot_world/build
+creating /home/tirth/tirth_ws/build/bot_world/build/lib
+creating /home/tirth/tirth_ws/build/bot_world/build/lib/bot_world
+copying bot_world/__init__.py -> /home/tirth/tirth_ws/build/bot_world/build/lib/bot_world
+running install
+running install_lib
+creating /home/tirth/tirth_ws/install/bot_world/lib/python3.10/site-packages/bot_world
+copying /home/tirth/tirth_ws/build/bot_world/build/lib/bot_world/__init__.py -> /home/tirth/tirth_ws/install/bot_world/lib/python3.10/site-packages/bot_world
+byte-compiling /home/tirth/tirth_ws/install/bot_world/lib/python3.10/site-packages/bot_world/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/tirth/tirth_ws/install/bot_world/share/ament_index
+creating /home/tirth/tirth_ws/install/bot_world/share/ament_index/resource_index
+creating /home/tirth/tirth_ws/install/bot_world/share/ament_index/resource_index/packages
+copying resource/bot_world -> /home/tirth/tirth_ws/install/bot_world/share/ament_index/resource_index/packages
+copying package.xml -> /home/tirth/tirth_ws/install/bot_world/share/bot_world
+running install_egg_info
+Copying ../../build/bot_world/bot_world.egg-info to /home/tirth/tirth_ws/install/bot_world/lib/python3.10/site-packages/bot_world-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/tirth/tirth_ws/build/bot_world/install.log'

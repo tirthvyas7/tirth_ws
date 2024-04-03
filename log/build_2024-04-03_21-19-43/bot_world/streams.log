@@ -1,0 +1,23 @@
+[2.604s] Invoking command in '/home/tirth/tirth_ws/src/bot_world': PYTHONPATH=/home/tirth/tirth_ws/build/bot_world/prefix_override:/home/tirth/tirth_ws/install/bot_world/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/bot_world build --build-base /home/tirth/tirth_ws/build/bot_world/build install --record /home/tirth/tirth_ws/build/bot_world/install.log --single-version-externally-managed
+[2.923s] running egg_info
+[2.923s] writing ../../build/bot_world/bot_world.egg-info/PKG-INFO
+[2.924s] writing dependency_links to ../../build/bot_world/bot_world.egg-info/dependency_links.txt
+[2.926s] writing entry points to ../../build/bot_world/bot_world.egg-info/entry_points.txt
+[2.937s] writing requirements to ../../build/bot_world/bot_world.egg-info/requires.txt
+[2.937s] writing top-level names to ../../build/bot_world/bot_world.egg-info/top_level.txt
+[2.939s] reading manifest file '../../build/bot_world/bot_world.egg-info/SOURCES.txt'
+[2.980s] adding license file 'LICENSE'
+[2.983s] writing manifest file '../../build/bot_world/bot_world.egg-info/SOURCES.txt'
+[2.984s] running build
+[2.984s] running build_py
+[2.986s] running install
+[2.987s] running install_lib
+[2.994s] running install_data
+[3.008s] creating /home/tirth/tirth_ws/install/bot_world/share/bot_world/launch
+[3.009s] creating /home/tirth/tirth_ws/install/bot_world/share/bot_world/world
+[3.009s] running install_egg_info
+[3.020s] removing '/home/tirth/tirth_ws/install/bot_world/lib/python3.10/site-packages/bot_world-0.0.0-py3.10.egg-info' (and everything under it)
+[3.023s] Copying ../../build/bot_world/bot_world.egg-info to /home/tirth/tirth_ws/install/bot_world/lib/python3.10/site-packages/bot_world-0.0.0-py3.10.egg-info
+[3.043s] running install_scripts
+[3.074s] writing list of installed files to '/home/tirth/tirth_ws/build/bot_world/install.log'
+[3.103s] Invoked command in '/home/tirth/tirth_ws/src/bot_world' returned '0': PYTHONPATH=/home/tirth/tirth_ws/build/bot_world/prefix_override:/home/tirth/tirth_ws/install/bot_world/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/bot_world build --build-base /home/tirth/tirth_ws/build/bot_world/build install --record /home/tirth/tirth_ws/build/bot_world/install.log --single-version-externally-managed
